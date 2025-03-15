@@ -24,4 +24,6 @@ document.querySelectorAll(".kanban-cards").forEach((column) => {
     const dragCard = document.querySelector(".kanban-card.dragging");
     e.currentTarget.appendChild(dragCard);
   });
+
+  // LaKch
 });

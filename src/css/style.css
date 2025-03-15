@@ -7,6 +7,7 @@
   box-sizing: border-box;
 }
 
+/* KANBAN STYLES */
 body {
   min-height: 100vh;
   display: flex;
