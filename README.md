@@ -19,30 +19,10 @@ Este é um **Sistema de Kanban** desenvolvido para gerenciamento de tarefas, pro
 - **CSS** → Estilização e design responsivo.
 - **JavaScript** → Manipulação do DOM e interatividade.
 
-## 📥 Como Executar o Projeto
-
-1️⃣ **Clone este repositório**:
-
-```bash
-git clone https://github.com/joaopedrobn/kanban-tarefas.git
-```
-
-2️⃣ **Acesse o diretório**:
-
-```bash
-cd kanban-tarefas
-```
-
-3️⃣ **Abra o arquivo `index.html` no navegador**.
-
 ## 🎯 Objetivo
 
 Facilitar o gerenciamento de tarefas, melhorando a organização e produtividade por meio de um sistema visual simples e eficiente.
 
 ## 🏆 Créditos
 
-Este projeto foi inspirado no trabalho de **Larissa Kich**, que compartilhou um guia detalhado sobre como desenvolver um sistema de Kanban estilizado. Agradecemos pela contribuição!
-
----
-
-💡 **Sinta-se à vontade para contribuir com melhorias ou personalizações!** 🚀
+Este projeto foi inspirado no trabalho de [Larissa Kich](https://github.com/Larissakich), que compartilhou um guia detalhado sobre como desenvolver um sistema de Kanban estilizado. Agradecemos pela sua ajuda!
